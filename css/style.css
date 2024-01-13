@@ -1,8 +1,12 @@
 a{
     text-decoration: none;
 }
+
+
 .card{
     box-shadow: 6px 4px 13px -3px rgba(0,0,0,0.75);
+    margin-top: 5vh;
+
 }
 
 .card img{
